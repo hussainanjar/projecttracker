@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="abf8d604-cbf6-4409-a21c-deab8a1a0b1b" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecttracker-grailsPlugins.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projecttracker.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/conf/BuildConfig.groovy" afterPath="$PROJECT_DIR$/grails-app/conf/BuildConfig.groovy" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="projecttracker.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -11,7 +11,7 @@
     <file path="/Dummy.txt" changelist="abf8d604-cbf6-4409-a21c-deab8a1a0b1b" time="1370504689429" ignored="false" />
     <file path="/edit.gsp" changelist="abf8d604-cbf6-4409-a21c-deab8a1a0b1b" time="1370507153388" ignored="false" />
     <file path="/show.gsp" changelist="abf8d604-cbf6-4409-a21c-deab8a1a0b1b" time="1370507559254" ignored="false" />
-    <file path="/BuildConfig.groovy" changelist="abf8d604-cbf6-4409-a21c-deab8a1a0b1b" time="1370508337991" ignored="false" />
+    <file path="/BuildConfig.groovy" changelist="abf8d604-cbf6-4409-a21c-deab8a1a0b1b" time="1370508855170" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,7 +75,7 @@
       <file leaf-file-name="BuildConfig.groovy" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/grails-app/conf/BuildConfig.groovy">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="47" column="32" selection-start="1900" selection-end="1900" vertical-scroll-proportion="0.33628318">
+            <state line="59" column="17" selection-start="2295" selection-end="2295" vertical-scroll-proportion="0.65486723">
               <folding />
             </state>
           </provider>
@@ -385,7 +385,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="10" y="22" width="1260" height="726" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32894737" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -583,7 +583,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/grails-app/conf/BuildConfig.groovy">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="47" column="32" selection-start="1900" selection-end="1900" vertical-scroll-proportion="0.33628318">
+        <state line="59" column="17" selection-start="2295" selection-end="2295" vertical-scroll-proportion="0.65486723">
           <folding />
         </state>
       </provider>
@@ -595,7 +595,7 @@
         <entry key="projecttracker">
           <value>
             <GrailsSettings>
-              <option name="buildConfigCrc" value="725453021" />
+              <option name="buildConfigCrc" value="-1476078441" />
               <option name="pluginDependenciesCrc" value="984177418" />
               <option name="properties">
                 <map>
